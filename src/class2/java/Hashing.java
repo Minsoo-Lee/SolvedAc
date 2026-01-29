@@ -11,7 +11,7 @@ public class Hashing {
 
         long M = 1234567891L;
         long r = 31L;
-ㅎ
+
         long hash = 0;
         long pow = 1;
 
